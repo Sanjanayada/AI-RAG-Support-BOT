@@ -1,0 +1,5 @@
+{
+  "name": "AI RAG Support Bot",
+  "description": "A Retrieval-Augmented Generation (RAG) system for answering queries based on technical documents using Gemini embeddings and generation.",
+  "requestFramePermissions": []
+}
